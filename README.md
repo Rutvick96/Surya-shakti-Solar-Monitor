@@ -150,4 +150,4 @@ This project is for educational and demonstration purposes.
 Built with ☀️ for promoting renewable energy awareness.
 ## 👨‍💻 Developed By
 
-Raj Singh MindMatrix VTU Internship Program 2026
+Rutvick MindMatrix VTU Internship Program 2026
