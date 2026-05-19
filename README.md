@@ -148,5 +148,6 @@ This project is for educational and demonstration purposes.
 ---
 
 Built with ☀️ for promoting renewable energy awareness.
-👨‍💻 Developed By
+##👨‍💻 Developed By
+
 Raj Singh MindMatrix VTU Internship Program 2026
